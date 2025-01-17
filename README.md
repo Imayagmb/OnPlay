@@ -1,4 +1,4 @@
-# OnPlay 🎬
+# OnPlay ▶️ 🎬
 
 **OnPlay** é um site promocional criado para apresentar e vender planos de streaming, destacando os benefícios do **Combo+** e do **Plano Básico**. 
 Desenvolvido com **HTML** e **CSS**, o projeto foca em uma apresentação visual atraente e clara para facilitar a escolha do melhor plano pelos usuários.  
