@@ -33,7 +33,7 @@ Confira o site ao vivo:
   <p><i>Detalhes do Combo+</i></p>
   
   <img src="https://github.com/user-attachments/assets/c3d9b5ea-3d7c-4b31-a798-182e84f5ff2b" alt="OnPlay Tela 4" width="600px">
-  <p><i>Downsload</i></p>
+  <p><i>Download</i></p>
 </div>
 
 
