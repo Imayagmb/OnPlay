@@ -24,16 +24,16 @@ Confira o site ao vivo:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/61f9f0a9-a480-425b-8917-f3fada43110c" alt="OnPlay Tela 1" width="600px">
-  <p><i>Home com promoções</i></p>
+  <p><i>Página inicial do combo</i></p>
   
   <img src="https://github.com/user-attachments/assets/69d04ff9-99d1-4949-8c32-24152fbd4804" alt="OnPlay Tela 2" width="600px">
-  <p><i>Seção de planos</i></p>
+  <p><i>Assista de qualquer dispositivo</i></p>
   
   <img src="https://github.com/user-attachments/assets/5b061832-897d-4712-a9b8-a20fd4c5b571" alt="OnPlay Tela 3" width="600px">
   <p><i>Detalhes do Combo+</i></p>
   
   <img src="https://github.com/user-attachments/assets/c3d9b5ea-3d7c-4b31-a798-182e84f5ff2b" alt="OnPlay Tela 4" width="600px">
-  <p><i>Plano Básico</i></p>
+  <p><i>Downsload</i></p>
 </div>
 
 
